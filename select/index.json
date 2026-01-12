@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BEYOND THE TIME ～メビウスの宇宙を越えて～VideoAudio",
+  "base_artist": "森口博子",
+  "createdAt": "2026-01-12T12:11:55.561620Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEYOND THE TIME ～メビウスの宇宙を越えて～",
+      "artist": "森口 博子",
+      "has_synced": false,
+      "path": "select/pl_01_BEYOND_THE_TIME_~メビウスの宇宙を越えて~_森口_博子.txt"
+    }
+  ]
+}
